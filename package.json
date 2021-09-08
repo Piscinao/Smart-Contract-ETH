@@ -1,0 +1,11 @@
+{
+  "name": "eth-contract",
+  "version": "1.0.0",
+  "description": "Repositório para a parte prática da Aula: Introdução à Blockchain e Ethereum Smart Contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
